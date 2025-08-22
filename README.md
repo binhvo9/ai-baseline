@@ -1,3 +1,5 @@
+
+
 # AI Baseline Project – Heart Disease Prediction
 
 ## Problem
@@ -12,6 +14,18 @@ Dự án này xây dựng mô hình dự đoán nguy cơ mắc bệnh tim dựa 
 - EDA cơ bản: kích thước dữ liệu, missing values, quick plots.
 - Train baseline model (Logistic Regression hoặc Random Forest).
 - Lưu kết quả metrics (Accuracy, F1-score) trong `results/`.
+
+## Baseline Results
+
+- **Model**: Logistic Regression  
+- **Accuracy**: 0.8341463414634146  
+- **F1 Score**: 0.8508771929824561  
+-  Confusion Matrix:
+ [[74 26]
+ [ 8 97]]
+  
+- Metrics file: [`results/metrics.json`](results/metrics.json)
+
 
 ## Repo Structure
 data/ # raw/processed (không commit dữ liệu nặng)
