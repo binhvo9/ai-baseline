@@ -1,3 +1,17 @@
+---
+title: Heart Disease Baseline
+emoji: ❤️
+colorFrom: red
+colorTo: gray
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
+
+# Heart Disease Baseline (Streamlit Demo)
+
+Baseline Logistic Regression cho dự đoán nguy cơ bệnh tim.  
+App hiển thị Accuracy + F1 và cho phép nhập thông số để dự đoán rủi ro.
 
 
 # AI Baseline Project – Heart Disease Prediction
