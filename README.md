@@ -8,6 +8,10 @@ app_file: app.py
 pinned: false
 ---
 
+## Demo
+👉 [Try on Hugging Face Spaces](https://huggingface.co/spaces/binhvv9999/heart-baseline)
+
+
 # Heart Disease Baseline (Streamlit Demo)
 
 Baseline Logistic Regression cho dự đoán nguy cơ bệnh tim.  
